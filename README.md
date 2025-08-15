@@ -6,7 +6,7 @@ A full-stack web application where users can post books they've read and leave s
 ---
 
 ## Live Demo
-[View Live Project](https://book-review-board-evangelin.vercel.app/)
+[View Live Project](https://book-review-fe-9zu8.vercel.app)
 ---
 
 ## 🔹 Features
