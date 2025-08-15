@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Evangelin-philip/bookReview_FE.git.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Evangelin-philip/bookReview_BE.git
